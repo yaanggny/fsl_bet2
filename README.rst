@@ -1,4 +1,4 @@
-# bet2
+# bet2 (froked from https://github.com/liangfu/bet2)
 standalone Brain Extraction Tool (bet2), released by http://fsl.fmrib.ox.ac.uk/
 
 The following features are added:
